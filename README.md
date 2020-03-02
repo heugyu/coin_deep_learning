@@ -15,20 +15,20 @@
 - 그리고 거래량 보다는 가격이 포함된 거래대금을 보는 것이 시장 자금의 유동성을 파학할 수 있음
 - 이를 고려하여 상위 거래소의 voluem, price 를 사용하여 A/D로 수요/공급의 누적 대금을 파악 
 - 실제 볼륨과 달리 누적된 거래대금은 다이버전스를 찾기 쉽게 함 
-  https://github.com/heugyu/coin_deep_learning/issues/1#issue-573900101
+- https://github.com/heugyu/coin_deep_learning/issues/1#issue-573900101
 
 2. PF S/R (Pivots Fibonacci S/R)
 - 가격의 pivot을 시작과 끝으로 한 피보나치 레벨의 지지
 - volume의 price를 평균화한 VWAP 사용 length는 의미있는 34 사용
 - Bollinger를 기반으로 한 지지, 저장 레벨 
-  https://github.com/heugyu/coin_deep_learning/issues/2#issue-573936057
+- https://github.com/heugyu/coin_deep_learning/issues/2#issue-573936057
   
 3. ALL
 - 가격의 pivot시 거래량을 표현 (Wyckoff 패턴에서 중요)
 - 차트와 보조지표간 수렴 및 발산을 캐치
 - 멀티 EMA
 - multiplier를 활용한 채널
-  https://github.com/heugyu/coin_deep_learning/issues/3#issue-573938577
+- https://github.com/heugyu/coin_deep_learning/issues/3#issue-573938577
   
 > 기본적인 지표와 더불어 가격의 상승과 하락에 주요한 영향이 있는 지표를 피쳐 값으로 사용할 때 RNN, 강화 학습에서는 어떻게 될지?
  
