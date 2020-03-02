@@ -5,7 +5,8 @@
 
 # Docker Setting
 1. Pytorch Docker Image Pull
-2. Coin Historical Data Crawling
+2. ngrok.io를 통한 외부 원격 설정  
+3. Coin Historical Data Crawling
 > 이왕이면 개발한 지표값이 포함된 형태의 session, opne, close, high, close, develop_indicate 데이터
 > 아니면 기본 데이터로 지표값 생성해야할 듯 
 
