@@ -1,7 +1,7 @@
 # coin_deep_learning
 - Tradingview에서 거래량 관련 지표 개발을 하다가 이를 바탕으로 back test의 필요성
 - 그동안 미루고 미뤘던 코인데이터 딥러닝 테스트의 필요성 
-- 기본적인 open, close, hihg, low의 RNN(LSTM), 강화학습은 문제가 있음(가격의 분산)
+- 기본적인 open, close, hihg, low의 RNN(LSTM), 강화학습은 문제가 있음(피쳐값의 분산), 가격이 오르고 내리고에 별 영향이 없음 
 - 보다 확실한 피쳐 개발이 우선되어 했고 이를 거래량을 통한 지표를 개발 하였음 
 - 거래량을 통안 지표의 기반은 Wyckoff 패턴을 주요 골자로 생각 
 - 이를 통해 총 3가지의 지표를 개발 하였음 
@@ -17,4 +17,5 @@
 - 실제 볼륨과 달리 누적된 거래대금은 다이버전스를 찾기 쉽게 함 
 https://github.com/heugyu/coin_deep_learning/issues/1#issue-573900101
 
+2. PF S/R
 코인 및 주식 데이터로 RNN, 강화학습, 퀀트, 알고 매매 테스트 
