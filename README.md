@@ -28,7 +28,7 @@
 - 차트와 보조지표간 수렴 및 발산을 캐치
 - 멀티 EMA
 - multiplier를 활용한 채널
-- https://github.com/heugyu/coin_deep_learning/issues/3#issue-573938577
+  ![image](https://user-images.githubusercontent.com/60495142/75676094-e21eb080-5ccb-11ea-9165-50b809e2888c.png)
   
 > 기본적인 지표와 더불어 가격의 상승과 하락에 주요한 영향이 있는 지표를 피쳐 값으로 사용할 때 RNN, 강화 학습에서는 어떻게 될지?
  
