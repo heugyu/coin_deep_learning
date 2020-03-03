@@ -15,7 +15,7 @@
 - 그리고 거래량 보다는 가격이 포함된 거래대금을 보는 것이 시장 자금의 유동성을 파학할 수 있음
 - 이를 고려하여 상위 거래소의 voluem, price 를 사용하여 A/D로 수요/공급의 누적 대금을 파악 
 - 실제 볼륨과 달리 누적된 거래대금은 다이버전스를 찾기 쉽게 함 
-- https://github.com/heugyu/coin_deep_learning/issues/1#issue-573900101
+  ![image](https://user-images.githubusercontent.com/60495142/75671276-bb5b7c80-5cc1-11ea-9136-e9380b455e86.png)
 
 2. PF S/R (Pivots Fibonacci S/R)
 - 가격의 pivot을 시작과 끝으로 한 피보나치 레벨의 지지
