@@ -21,8 +21,8 @@
 - 가격의 pivot을 시작과 끝으로 한 피보나치 레벨의 지지
 - volume의 price를 평균화한 VWAP 사용 length는 의미있는 34 사용
 - Bollinger를 기반으로 한 지지, 저장 레벨 
-- https://github.com/heugyu/coin_deep_learning/issues/2#issue-573936057
-  
+  ![image](https://user-images.githubusercontent.com/60495142/75675801-38d7ba80-5ccb-11ea-966f-daa47fe0c6d6.png)
+
 3. ALL
 - 가격의 pivot시 거래량을 표현 (Wyckoff 패턴에서 중요)
 - 차트와 보조지표간 수렴 및 발산을 캐치
