@@ -11,4 +11,13 @@
 > 아니면 기본 데이터로 지표값 생성해야할 듯 
 
 # Coin Historical Data Crawling
+- 크롤링 이용하여 데이터 추출
+- 데이터는 다음과 같은 형태
+  ![image](https://user-images.githubusercontent.com/60495142/75801094-ee833600-5dbd-11ea-8bcb-ca3f8cb6555e.png)
+  ![image](https://user-images.githubusercontent.com/60495142/75801225-1e323e00-5dbe-11ea-8aca-7e9d99f58d76.png)
 
+# Pandas를 이요한 전처리 및 데이터 분석
+
+# 기본 데이터로 RNN
+
+# RNN 및 강화학습
