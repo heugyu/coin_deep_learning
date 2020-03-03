@@ -10,3 +10,5 @@
 > 이왕이면 개발한 지표값이 포함된 형태의 session, opne, close, high, close, develop_indicate 데이터
 > 아니면 기본 데이터로 지표값 생성해야할 듯 
 
+# Coin Historical Data Crawling
+
